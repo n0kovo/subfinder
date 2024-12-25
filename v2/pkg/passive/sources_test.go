@@ -43,6 +43,7 @@ var (
 		"shodan",
 		"sitedossier",
 		"threatbook",
+		"threatcrowd",
 		"virustotal",
 		"waybackarchive",
 		"whoisxmlapi",
@@ -81,6 +82,7 @@ var (
 		// "riddler", // failing due to cloudfront protection
 		"securitytrails",
 		"shodan",
+		"threatcrowd",
 		"virustotal",
 		"whoisxmlapi",
 		"hunter",
